@@ -1,0 +1,4 @@
+host = "imap.gmail.com"
+username = "xxxx@gmail.com"
+password = "xxxx xxxx xxxx xxxx"
+pollingInterval = 2.0
